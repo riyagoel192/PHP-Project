@@ -7,12 +7,12 @@ Though the website is static, but still it includes all the necessary details an
 PHP, HTML, CSS and a little bit of Bootstrap
 
 # Features Offered:
-Login Logout options
-User feedback form
-Columns for popular upcoming offers
-Various flight destinations
-Hot Deals at affordable prices
-Details of the booking procedure
+Login Logout options.
+User feedback form.
+Columns for popular upcoming offers.
+Various flight destinations.
+Hot Deals at affordable prices.
+Details of the booking procedure.
 
 # Screenshots
 
