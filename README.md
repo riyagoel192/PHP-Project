@@ -17,3 +17,5 @@ Details of the booking procedure
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/55539590/71571338-cba77d80-2aff-11ea-8ace-2df0f9697062.png)
+
+![image](https://user-images.githubusercontent.com/55539590/71571437-38bb1300-2b00-11ea-8b66-ff8b0591266c.png)
