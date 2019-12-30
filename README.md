@@ -9,10 +9,10 @@ PHP, HTML, CSS and a little bit of Bootstrap
 # Features Offered:
 1. Login Logout options
 2. User feedback form
-Columns for popular upcoming offers
-Various flight destinations
-Hot Deals at affordable prices
-Details of the booking procedure
+3. Columns for popular upcoming offers
+4. Various flight destinations
+5. Hot Deals at affordable prices
+6. Details of the booking procedure
 
 # Screenshots
 
