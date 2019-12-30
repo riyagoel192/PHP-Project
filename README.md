@@ -20,5 +20,5 @@ Details of the booking procedure
 
 ![image](https://user-images.githubusercontent.com/55539590/71571437-38bb1300-2b00-11ea-8b66-ff8b0591266c.png) ![image](https://user-images.githubusercontent.com/55539590/71571505-9fd8c780-2b00-11ea-87a9-668e0605a72b.png)
 
-![image](https://user-images.githubusercontent.com/55539590/71571953-fba45000-2b02-11ea-9ff6-febbe77e0b44.png)
+![image](https://user-images.githubusercontent.com/55539590/71571953-fba45000-2b02-11ea-9ff6-febbe77e0b44.png) ![image](https://user-images.githubusercontent.com/55539590/71572045-5b026000-2b03-11ea-8697-732e63c8606b.png)
 
