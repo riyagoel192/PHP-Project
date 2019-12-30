@@ -1,0 +1,187 @@
+html,body
+{
+	padding: 0;
+	margin: 0;
+	background-color:white
+}
+h2
+{
+	text-align:center;
+	font-size:60px;
+}
+#transfer
+{
+	float:right;
+	border:2px groove black;
+	height:100px;
+	width:540px;
+	margin:6px;
+	background-color:lightblue;
+}
+header
+{
+	box-sizing: border-box;
+	border: 2px solid black;
+	height:100px;
+	width:100%;
+	line-height:20px;
+	background-color:lightgrey;
+}
+.ulclass li
+{
+	float:right;
+	border:2px solid black;
+	list-style-type:none;
+	margin:5px;
+	background-color:pink;
+	padding:7px;
+	box-shadow: 5px 10px #888888;
+}
+.deal2
+{
+	border:1px solid black;
+	width:250px;
+	height:330px;
+	margin:4px;
+	float:right;
+	background-color:lightgrey;
+}
+#hot
+{
+	width:530px;
+	height:1100px;
+	border:1px groove black;
+	float:right;
+	margin:10px;
+}
+#discover
+{
+	text-align:center;
+	font-size:40px;
+	font-family:comic sans ms;
+	color:green;
+}
+#newbtn{
+	width:300px;
+	line-height:20px;
+   padding:0px;
+   margin:0px;
+}
+#formfill
+{
+	 border:1px groove black;
+	 width:360px;
+	 height:540px;
+	 padding:4px;
+	 float:right;
+	 background-color:grey;
+}
+form
+{
+	text-align:center;
+}
+.me
+{
+	width:230px;
+	height:200px;
+	margin:10px;
+	border:2px solid black;
+}
+.links
+{
+	font-size:15px;
+	float:right;
+	margin:10px;
+}
+footer
+{
+	border: 2px solid black;
+	height:230px;
+	width:100%;
+	box-sizing: border-box;
+	color:black;
+	padding:5px;
+	background-color:lightgrey;
+}
+h3
+{
+	color:black;
+	padding:3px;
+	font-size:20px;
+}
+#hotelsearch
+{
+	 border:2px solid red;
+	 height:320px;
+	 width:400px;
+	 background-color:lightpink;
+	  box-shadow: 5px 10px 18px red;
+}
+#cheaphotels
+{
+	 border:2px solid green;
+	 height:320px;
+	 width:400px;
+	 background-color:lightgreen;
+	  box-shadow: 5px 10px 18px green;
+}
+#howtobook
+{
+	 border:2px solid blue;
+	 height:320px;
+	 width:400px;
+	 float:left;
+	 background-color:cyan;
+	  box-shadow: 5px 10px 18px blue;
+}
+.images{
+	 width:140px;
+	 height:100px;
+	 float:left;
+	 padding:3px;
+}
+#main
+{
+	height:1300px;
+	width:98%;
+	box-sizing: border-box;
+	line-height: 20px;
+}
+#last
+{
+	text-align:center;
+}
+#popular
+{
+	border:2px groove yellow;
+	width:360px;
+	height:300px;
+	background-color:purple;
+	box-shadow: 5px 10px 18px orange;
+}
+.side
+{
+	 font-size:18px;
+	 float:right;
+	 margin:13px;
+}
+.sidebox
+{
+	 border:2px groove black;
+	 width:330px;
+	 height:110px;
+	 margin:6px;
+	 background-color:orange;
+}
+.myside
+{
+	width:100px;
+	height:100px;
+}
+#mmt
+{
+	float:right;
+}
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
